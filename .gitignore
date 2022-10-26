@@ -1,0 +1,9 @@
+project-root-directory/
++ nbproject/
+  build-impl.xml
+  + private/
+  + project.properties
+  + project.xml
++ src/
++ test/
++ build.xml
